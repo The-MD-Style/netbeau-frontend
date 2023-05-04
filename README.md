@@ -1,8 +1,8 @@
-# [netbeau-frontend](https://github.com/The-MD-Style/netbeau-frontend)
+# [netbeau-frontend 🐸](https://github.com/The-MD-Style/netbeau-frontend)
 
-# How to run this project
+## How to run this project 🚀
 
-## Follow this guide \/
+Follow this guide
 
-- 1. `npm i` in project root folder
-- 2. `npm run start` to run
+- `npm i` in project root folder
+- `npm run start` to run
